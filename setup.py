@@ -7,13 +7,5 @@ setup(
     description="A brief description of MyPackage.",
     author="Your Name",
     author_email="your.email@example.com",
-    url="https://github.com/yourusername/mypackage",  # Optional
-    classifiers=[
-        "Development Status :: 3 - Alpha",
-        "Intended Audience :: Developers",
-        "License :: OSI Approved :: MIT License",
-        "Operating System :: OS Independent",
-        "Programming Language :: Python",
-        "Topic :: Software Development :: Libraries :: Python Modules",
-    ],
+    url="https://github.com/ArthurIasbeck/package_test",  # Optional
 )

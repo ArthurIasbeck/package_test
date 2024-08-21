@@ -13,3 +13,5 @@ G
 examples/module1test.py,7/2/72dde244e67c4637828192c114edabec2884fbb4
 H
 examples/module1_test.py,e/5/e57f415120912d5365d3937c9ef06d3502dd90ea
+F
+my_package/__init__.py,2/3/23d0417d0f14e304be6a35b7e3054d9bceac7f36
